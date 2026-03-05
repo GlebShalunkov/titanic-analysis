@@ -1,0 +1,1 @@
+В командную строку вбить: streamlit run app.py
